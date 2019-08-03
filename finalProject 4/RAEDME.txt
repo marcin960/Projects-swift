@@ -1,0 +1,3 @@
+To open an iOS application It is required to have MacOS. 
+The project should be displayed as an iPad Pro 9.7”.
+To open the project double click on SimpleDB.xcodeproj file.
